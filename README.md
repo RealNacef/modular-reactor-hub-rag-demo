@@ -1,5 +1,3 @@
-Modular Reactor Hub
-
 Archived demonstration of a domain-specific Retrieval-Augmented Generation (RAG) prototype developed for technical knowledge retrieval in the SMR, AMR and microreactor domain.
 
 Project status: archived prototype. The original Google Cloud VM and public application endpoint have been decommissioned. The videos below document the working capabilities of the system at the time of recording.
